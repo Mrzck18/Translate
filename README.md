@@ -12,3 +12,4 @@ git clone https://github.com/Mrzck18/Translate
 cd Translate
 
 bash translate.sh
+ 
